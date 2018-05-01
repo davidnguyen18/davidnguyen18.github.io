@@ -6,7 +6,7 @@ function setup(){
     thingy[i]=new thing()
   }
   colorMode(HSB)
-  cake=loadImage("cake.jpg")
+  cake=loadImage("cake.jpg");
   mike=loadImage("mike.png");
   imageMode(CENTER);
 }
